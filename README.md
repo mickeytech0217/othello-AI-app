@@ -1,0 +1,2 @@
+# othello-AI-app
+game 
